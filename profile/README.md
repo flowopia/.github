@@ -1,4 +1,8 @@
-## Benvenuti in Flowopia Network! 👋
+
+<p align="center">
+<img src="https://flowopia.com/wp-content/uploads/2022/09/logo-250x250-1.png" height="100px" style="position: center;">
+</p>
+
 
 <!--
 
