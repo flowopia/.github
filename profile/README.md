@@ -8,4 +8,5 @@
 <p>- Collaborazioni: network@flowopia.com</p>
 <p>- Gestione progettazione: michele.sacco@flowopia.com</p>
 <p>- Gestione sviluppo: vittorio.lomele@flowopia.com</p>
+<p>- Helpdesk: helpdesk@flowopia.com | helpdesk.flowopia.com</p>
 <p>- Sito Web: www.flowopia.com</p>
